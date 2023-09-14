@@ -324,40 +324,40 @@ public class CargarDatos {
 		calendar13.set(Calendar.DAY_OF_MONTH, 18);
 		Date date7 = calendar7.getTime();
 
-		BigDecimal cedula = new BigDecimal(50527424);
-		BigDecimal cedula2 = new BigDecimal(53828615);
-		BigDecimal cedula3 = new BigDecimal(54717322);
-		BigDecimal cedula4 = new BigDecimal(54524880);
-		BigDecimal cedula5 = new BigDecimal(55642853);
-		BigDecimal cedula6 = new BigDecimal(29197002);
+		BigDecimal cedula = new BigDecimal(12111111);
+		BigDecimal cedula2 = new BigDecimal(22222222);
+		BigDecimal cedula3 = new BigDecimal(33333333);
+		BigDecimal cedula4 = new BigDecimal(44444444);
+		BigDecimal cedula5 = new BigDecimal(55555555);
+		BigDecimal cedula6 = new BigDecimal(66666666);
 
-		BigDecimal cedula7 = new BigDecimal(49283746);
-		BigDecimal cedula8 = new BigDecimal(23749523);
-		BigDecimal cedula9 = new BigDecimal(34823453);
-		BigDecimal cedula10 = new BigDecimal(22445556);
-		BigDecimal cedula11 = new BigDecimal(33445566);
-		BigDecimal cedula12 = new BigDecimal(26334455);
-		BigDecimal cedula13 = new BigDecimal(11225566);
+		BigDecimal cedula7 = new BigDecimal(77777777);
+		BigDecimal cedula8 = new BigDecimal(88888888);
+		BigDecimal cedula9 = new BigDecimal(99999999);
+		BigDecimal cedula10 = new BigDecimal(10101010);
+		BigDecimal cedula11 = new BigDecimal(20202020);
+		BigDecimal cedula12 = new BigDecimal(30303030);
+		BigDecimal cedula13 = new BigDecimal(40404040);
 
-//		Usuario oUsuarioNuevo = new Usuario("12345678a", cedula, dateNico, "nicolas.melendez@utec.edu.uy",
-//				"nico@hotmail.com", "nicolas.melendez", "Meléndez", "Nicolás", "Gutierrez", "Nahuel", "099616534", "S",
-//				"S", departamentoCreado8, generoCreado, itrCreada, localidadCreada, rolCreado);
+		Usuario oUsuarioNuevo = new Usuario("12345678a", cedula, dateNico, "nicolas.melendez@utec.edu.uy",
+				"nico@hotmail.com", "nicolas.melendez", "Meléndez", "Nicolás", "Gutierrez", "Nahuel", "099616534", "S",
+				"S", departamentoCreado8, generoCreado, itrCreada, localidadCreada, rolCreado);
 
 		Usuario oUsuarioNuevo2 = new Usuario("12345678a", cedula2, dateRony, "rony.palacios@utec.edu.uy",
-				"rony@adinet.com", "rony.palacios", "Palacios", "Rony", "Guerra", "", "099542342", "S", "S",
+				"rony@adinet.com", "rony.palacios", "Palacios", "Rony", "Guerra", "", "099652242", "S", "S",
 				departamentoCreado8, generoCreado, itrCreada, localidadCreada, rolCreado3);
 
 		Usuario oUsuarioNuevo3 = new Usuario("12345678a", cedula3, dateMartina, "matias.luzardo@utec.edu.uy",
-				"matias@gmail.com", "matias.luzardo", "Luzardo", "Matias", "Frade", "Gabriel", "099444223", "S", "N",
+				"matias@gmail.com", "matias.luzardo", "Luzardo", "Matias", "Frade", "Gabriel", "092344423", "S", "N",
 				departamentoCreado7, generoCreado, itrCreada, localidadCreada22, rolCreado4);
 
 		Usuario oUsuarioNuevo4 = new Usuario("12345678a", cedula4, dateValentina, "valentina.hernandez@utec.edu.uy",
-				"vale@gmail.com", "valentina.hernandez", "Hernandez", "Valentina", "Modino", "", "094423443", "S", "S",
+				"vale@gmail.com", "valentina.hernandez", "Hernandez", "Valentina", "Modino", "", "094567443", "S", "S",
 				departamentoCreado8, generoCreado2, itrCreada, localidadCreada, rolCreado);
 
 		Usuario oUsuarioNuevo5 = new Usuario("12345678a", cedula5, dateMartina,
 				"martina.fernandez@estudiantes.utec.edu.uy", "marti@gmail.com", "martina.fernandez", "Fernandez",
-				"Martina", "Baladón", "", "092342344", "S", "S", departamentoCreado2, generoCreado2, itrCreada,
+				"Martina", "Baladón", "", "095672344", "S", "S", departamentoCreado2, generoCreado2, itrCreada,
 				localidadCreada8, rolCreado2);
 
 		Usuario oUsuarioNuevo6 = new Usuario("12345678a", cedula6, datePepe, "pepe.lopez@estudiantes.utec.edu.uy",
