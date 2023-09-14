@@ -242,29 +242,29 @@ public class CargarDatos {
 
 		// Edad Martina
 		Calendar calendar = Calendar.getInstance();
-		calendar.set(Calendar.YEAR, 2003);
-		calendar.set(Calendar.MONTH, Calendar.MAY);
-		calendar.set(Calendar.DAY_OF_MONTH, 30);
+		calendar.set(Calendar.YEAR, 2002);
+		calendar.set(Calendar.MONTH, Calendar.JANUARY);
+		calendar.set(Calendar.DAY_OF_MONTH, 25);
 		Date dateMartina = calendar.getTime();
 
 		// Edad Rony
 		Calendar calendar2 = Calendar.getInstance();
-		calendar2.set(Calendar.YEAR, 2003);
-		calendar2.set(Calendar.MONTH, Calendar.NOVEMBER);
-		calendar2.set(Calendar.DAY_OF_MONTH, 06);
+		calendar2.set(Calendar.YEAR, 2002);
+		calendar2.set(Calendar.MONTH, Calendar.JANUARY);
+		calendar2.set(Calendar.DAY_OF_MONTH, 16);
 		Date dateRony = calendar2.getTime();
 
 		// Edad Matias
 		Calendar calendar3 = Calendar.getInstance();
-		calendar3.set(Calendar.YEAR, 2003);
-		calendar3.set(Calendar.MONTH, Calendar.DECEMBER);
-		calendar3.set(Calendar.DAY_OF_MONTH, 23);
+		calendar3.set(Calendar.YEAR, 2001);
+		calendar3.set(Calendar.MONTH, Calendar.JANUARY);
+		calendar3.set(Calendar.DAY_OF_MONTH, 22);
 		Date dateMatias = calendar3.getTime();
 
 		// Edad Valentina
 		Calendar calendar4 = Calendar.getInstance();
-		calendar4.set(Calendar.YEAR, 2003);
-		calendar4.set(Calendar.MONTH, Calendar.OCTOBER);
+		calendar4.set(Calendar.YEAR, 2001);
+		calendar4.set(Calendar.MONTH, Calendar.JANUARY);
 		calendar4.set(Calendar.DAY_OF_MONTH, 12);
 		Date dateValentina = calendar4.getTime();
 
@@ -277,9 +277,9 @@ public class CargarDatos {
 
 		// Edad Nico
 		Calendar calendar6 = Calendar.getInstance();
-		calendar6.set(Calendar.YEAR, 1999);
-		calendar6.set(Calendar.MONTH, Calendar.NOVEMBER);
-		calendar6.set(Calendar.DAY_OF_MONTH, 05);
+		calendar6.set(Calendar.YEAR, 1995);
+		calendar6.set(Calendar.MONTH, Calendar.JANUARY);
+		calendar6.set(Calendar.DAY_OF_MONTH, 20);
 		Date dateNico = calendar6.getTime();
 
 		Calendar calendar7 = Calendar.getInstance();
